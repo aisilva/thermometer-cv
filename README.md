@@ -1,4 +1,4 @@
-![alt text](pictures/working.png)
+![alt text](pictures/working-2.png)
 
 # Thermometer CV
 2025 May 1
