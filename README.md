@@ -1,3 +1,5 @@
+![alt text](pictures/working.png)
+
 2025 May 1
 
 I needed to make sure the thermometer was oriented correctly, otherwise the angle of the red needle has no frame of reference. I had the thought that I could use edge detection on the image of the thermometer itself, since the numbers on the face have a lot of vertical edges- I assumed that this could mean that the average edge was vertical, or that a map of just the vertical edges would be useful to determine the orientation of the thermometer.
